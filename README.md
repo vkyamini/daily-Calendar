@@ -1,8 +1,8 @@
 # daily-Calendar
-Link to application on github pages: https://vkyamini.github.io/daily-calendar/
+Link to application on github pages: https://vkyamini.github.io/daily-Calendar/
 
 ## Screenshot
-![Screenshot](/assets/screenshot.png)
+![Screenshot](/assests/calendar.png)
 
 ## Technologies Used
 * HTML

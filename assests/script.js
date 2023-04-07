@@ -3,7 +3,6 @@ var now = dayjs().hour();
 setInterval(function() {
   $('#time').text(dayjs().format('dddd, MMMM D YYYY, h:mm:ss a'));
 }, 1000);
-
 for (i=9;i<19;i++){
   // display current task
   var task = localStorage.getItem("btn-hour-"+[i]);
