@@ -1,33 +1,69 @@
-# daily-Calendar
-Link to application on github pages: https://vkyamini.github.io/daily-Calendar/
-It is a front-end application helping to keep track of the daily task in hourly basis.
+# Daily Calendar
+ 
+ [Link](https://vkyamini.github.io/daily-Calendar/)
 
-## Screenshot
+Have your own single-page calendar with a timebox allowing you to breakdown the task on an hourly basis.
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Introduction
+
+This front end helps users to break down their daily tasks on an hourly basis.
+Each timebox color is updated dynamically depending on the time of the day to distinguish between
+the completed task, the task in progress, and tasks to be done by EOD.
+
+## Features
+
+- Storing the data(task) using LocalStorage.
+- logic to update the color based on the time.
+- Clock updating the evry second of the day usind DayJs
+
 ![Screenshot](/assests/calendar.png)
 
-## Technologies Used
-* HTML
-* Javascript
-* Dayjs()
-* CSS
-* VS Code
-* Github
+## Getting Started
 
-## Description
-A daily calendar planner with time updating every second.It display's the task in red when it is due at the hour and gray for past Task and green for future task.
+### Prerequisites
+
+- clone the repository to your local computer.
+
+### Installation
+
+1. No installation required.
+   - This project uses Bootstrap and Dayjs
+
+## Usage
+
+N/A
+
+## Technologies Used
+
+- jQuery
+- Bootstrap
+- HTML.
+- Dayjs()
+
+## Contributing
+
+- Adding more features (reminders,alarm)
 
 ## License
-MIT License
 
+MIT
 
+## Contact
 
-
-
-
-
-
-
-
-
+  * [websit](https://yamcodes.com/)
+  * [Contact Me](https://yamcodes.com/).
+  * [Email](yamini@yamcodes.com)
 
 
