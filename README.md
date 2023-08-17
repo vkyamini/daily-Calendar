@@ -1,5 +1,6 @@
 # daily-Calendar
 Link to application on github pages: https://vkyamini.github.io/daily-Calendar/
+It is a front-end application helping to keep track of the daily task in hourly basis.
 
 ## Screenshot
 ![Screenshot](/assests/calendar.png)
