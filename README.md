@@ -1,6 +1,6 @@
 # Daily Calendar
  
- [Link](https://vkyamini.github.io/daily-Calendar/)
+ [Website Link](https://vkyamini.github.io/daily-Calendar/)
 
 Have your own single-page calendar with a timebox allowing you to breakdown the task on an hourly basis.
 
