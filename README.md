@@ -26,7 +26,7 @@ the completed task, the task in progress, and tasks to be done by EOD.
 
 - Storing the data(task) using LocalStorage.
 - logic to update the color based on the time.
-- Clock updating the evry second of the day usind DayJs
+- Clock getting updated every second of the day using DayJs.
 
 ![Screenshot](/assests/calendar.png)
 
